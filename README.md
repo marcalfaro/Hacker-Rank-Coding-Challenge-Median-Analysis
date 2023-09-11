@@ -1,6 +1,7 @@
 # Hacker-Rank-Coding-Challenge-Median-Analysis
 
 **Hacker Rank Coding Challenge: Median Analysis**
+https://youtu.be/CYrAWWBHGso
 
 Given an array arr of n integers, for each index i, find the length of the longest odd length subsequence of the array such that arr[i] is the median of the array and the number of distinct elements in the
 subsequence less than arr[i] is equal to the number of distinct elements in the subsequence greater than arr[i].
